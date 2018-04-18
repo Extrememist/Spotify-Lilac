@@ -8459,13 +8459,13 @@
 	.view-player .nowplaying-ban-button.added.just-changed,
 	.view-player .nowplaying-heart-button.added,
 	.view-player .nowplaying-heart-button.added.just-changed {
-	    color: #1ed760
+	    color: #551F55
 	}
 
 	.view-player .nowplaying-add-button.added.just-changed:active,
 	.view-player .nowplaying-ban-button.added.just-changed:active,
 	.view-player .nowplaying-heart-button.added.just-changed:active {
-	    color: #18ac4d
+	    color: #551F55
 	}
 
 	.view-player .nowplaying-heart-button {
