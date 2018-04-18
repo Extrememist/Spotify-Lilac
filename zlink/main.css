@@ -6261,7 +6261,7 @@
 	    color: #551F55;
 	    transition: none 33ms cubic-bezier(.3, 0, .7, 1);
 	    transition-property: transform, box-shadow, color, background-color;
-	    box-shadow: inset 0 0 0 1px #551F55;
+	    box-shadow: inset 0 0 0 1px #b3b3b3;
 	    width: 32px;
 	    padding-left: 0;
 	    padding-right: 0
@@ -6279,7 +6279,7 @@
 
 	.view-player .player-controls-container .controls .button-play:not(:disabled):hover:active {
 	    background: transparent;
-	    color: #a0a0a0;
+	    color: #551F55;
 	    transform: scale(1)
 	}
 
