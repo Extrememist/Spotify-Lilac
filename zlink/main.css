@@ -2347,8 +2347,8 @@
 	    right: 0;
 	    bottom: 0;
 	    left: 0;
-	    background-color: #606060;
-	    background-image: linear-gradient(180deg, transparent, #181818)
+	    background-color: #876ba2;
+	    background-image: linear-gradient(180deg, transparent, #59265c)
 	}
 
 	.GlueHeader__background-image {
@@ -2373,7 +2373,7 @@
 	}
 
 	.GlueHeader__background-overlay {
-	    background: hsla(0, 0%, 9%, .44);
+	    background: hsla(0, 0%, 0%, 0) !important;
 	    position: absolute;
 	    top: 0;
 	    right: 0;
@@ -4283,7 +4283,7 @@
 	    top: 0;
 	    height: 100%;
 	    width: 100%;
-	    background-color: #181818
+	    background-color: #876ba2
 	}
 
 	#view-content>.embedded-app:not(.active),

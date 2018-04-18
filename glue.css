@@ -13396,7 +13396,7 @@ a.list-group-item.active .list-group-item-text {
 }
 
 .nav > li.active > a::after {
-  background-color: #1db954;
+  background-color: #876ba2 !important;
 }
 
 .nav > li.disabled > a {
