@@ -643,13 +643,13 @@
 	}
 
 	.context-menu .item.hover:not(.disabled) {
-	    background-color: #404040;
+	    background-color: #876ba2;
 	    color: #fff;
 	    cursor: default
 	}
 
 	.context-menu .item.active {
-	    background-color: #404040;
+	    background-color: #876ba2;
 	    color: #fff
 	}
 
