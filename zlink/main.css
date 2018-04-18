@@ -6212,7 +6212,7 @@
 
 	.view-player .player-controls-container .progress-container .elapsed,
 	.view-player .player-controls-container .progress-container .remaining {
-	    color: #551F55;
+	    color: #b3b3b3;
 	    font-size: 11px;
 	    line-height: 11px;
 	    width: 35px
@@ -6258,10 +6258,10 @@
 	    padding-right: 32px;
 	    border-radius: 16px;
 	    background: transparent;
-	    color: #fff;
+	    color: #551F55;
 	    transition: none 33ms cubic-bezier(.3, 0, .7, 1);
 	    transition-property: transform, box-shadow, color, background-color;
-	    box-shadow: inset 0 0 0 1px #b3b3b3;
+	    box-shadow: inset 0 0 0 1px #551F55;
 	    width: 32px;
 	    padding-left: 0;
 	    padding-right: 0
