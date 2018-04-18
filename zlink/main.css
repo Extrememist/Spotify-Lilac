@@ -8407,11 +8407,11 @@
 	    font-size: 14px;
 	    line-height: 20px;
 	    letter-spacing: .015em;
-	    color: #fff
+	    color: #682668
 	}
 
 	.view-player .track a {
-	    color: #fff
+	    color: #682668
 	}
 
 	.view-player .artist {
@@ -8419,11 +8419,11 @@
 	    line-height: 16px;
 	    letter-spacing: .015em;
 	    line-height: 18px;
-	    color: #b3b3b3
+	    color: ##551F55
 	}
 
 	.view-player .artist a {
-	    color: #b3b3b3
+	    color: ##551F55
 	}
 
 	.view-player .artist a.contextmenu-active,
