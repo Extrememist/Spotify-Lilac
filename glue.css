@@ -6761,7 +6761,7 @@ html:not(
 .scrollbar-style-visible-mac ::-webkit-scrollbar-thumb:hover,
 .scrollbar-style-visible-windows ::-webkit-scrollbar-thumb:hover,
 .scrollbar-style-visible-linux ::-webkit-scrollbar-thumb:hover {
-  background-color: ##a26b87;
+  background-color: #a26b87;
 }
 
 .scrollbar-style-visible-mac ::-webkit-scrollbar-corner,
