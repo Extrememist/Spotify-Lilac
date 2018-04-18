@@ -3,7 +3,7 @@
 
 
 
-##Installation 
+## Installation 
 
 You can use this tool: [Theme Installer](https://github.com/Extrememist/SpotifyDesktop-ThemeInstaller)
 
