@@ -15391,7 +15391,7 @@ a.list-group-item.active > .badge,
 }
 
 .slider.enabled {
-  background: #1db954;
+  background: #876ba2 !important;
   border-color: transparent;
 }
 
