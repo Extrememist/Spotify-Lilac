@@ -12590,7 +12590,7 @@ hr {
 .divider {
   width: 100%;
   text-align: center;
-  border-bottom: 1px solid #282828;
+  border-bottom: 1px solid #876ba2;
   line-height: 1px;
   margin: 12px 0;
 }
@@ -12602,10 +12602,10 @@ hr {
   line-height: 16px;
   letter-spacing: 0.015em;
   font-weight: 200;
-  color: #b3b3b3;
+  color: #551f55;
   text-transform: uppercase;
   letter-spacing: 0.16em;
-  color: #a0a0a0;
+  color: #876ba2;
 }
 
 /**
@@ -12640,7 +12640,7 @@ hr {
   margin: 0 0 16px;
   padding: 26px 0 4px;
   position: relative;
-  color: #551f55 !important;
+  color: #551f55;
 }
 
 .section-divider::after {
@@ -12654,7 +12654,7 @@ hr {
   line-height: 24px;
   letter-spacing: -0.005em;
   font-weight: 600;
-  color: #551f55 !important;
+  color: #551f55;
   text-transform: none;
   margin: 0;
 }
@@ -12675,18 +12675,18 @@ hr {
 }
 
 .section-divider .section-auxiliary a {
-  color: #551f55 !important;
+  color: #551f55;
   font-size: 11px;
   line-height: 16px;
   letter-spacing: 0.015em;
   font-weight: 200;
-  color: #551f55 !important;
+  color: #551f55;
   text-transform: uppercase;
   letter-spacing: 0.16em;
 }
 
 .section-divider .section-auxiliary a:hover {
-  color: #876ba2 !important;
+  color: #876ba2;
 }
 
 .section-divider-small {
@@ -12700,7 +12700,7 @@ hr {
   line-height: 20px;
   letter-spacing: 0.015em;
   font-weight: 400;
-  color: #876ba2 !important;
+  color: #876ba2;
   text-transform: none;
   margin: 0;
 }
