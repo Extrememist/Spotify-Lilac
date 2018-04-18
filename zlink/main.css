@@ -5180,7 +5180,7 @@
 
 	.NewPlaylistButton:focus,
 	.NewPlaylistButton:hover {
-	    color: #7c3f7c
+	    color: #876ba2
 	}
 
 	.NewPlaylistButton:active {
@@ -5190,7 +5190,7 @@
 	.NewPlaylistButton.drop-target-active {
 	    background: #7c3f7c !important;
 	    border-top-color: #876ba2 !important;
-	    color: #7c3f7c !important
+	    color: #876ba2 !important
 	}
 
 	.NewPlaylistButton__icon {
