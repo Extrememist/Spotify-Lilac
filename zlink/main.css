@@ -4422,7 +4422,7 @@
 	    padding-top: 10px;
 	    overflow-y: scroll;
 	    overflow-x: hidden;
-	    background-color: #A26BA2;
+	    background-color: #876ba2;
 	    position: relative
 	}
 
@@ -4430,7 +4430,7 @@
 	.scrollbar-style-visible-mac .sidebar .sidebar-navbar.sidebar-scroll-element::-webkit-scrollbar-track,
 	.scrollbar-style-visible-windows .sidebar .sidebar-navbar.sidebar-scroll-element::-webkit-scrollbar-button,
 	.scrollbar-style-visible-windows .sidebar .sidebar-navbar.sidebar-scroll-element::-webkit-scrollbar-track {
-	    background-color: #A26BA2
+	    background-color: #876ba2
 	}
 
 	.sidebar .sidebar-navbar.sidebar-scroll-element:focus {
