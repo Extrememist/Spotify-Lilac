@@ -1041,9 +1041,9 @@ body {
   line-height: 20px;
   letter-spacing: 0.015em;
   font-weight: 200;
-  color: #551F55;
+  color: #b3b3b3;
   text-transform: none;
-  color: #551F55;
+  color: #b3b3b3;
   background-color: #876ba2;
   position: relative;
   width: 100vw;
@@ -17658,7 +17658,7 @@ a.list-group-item.active > .badge,
   line-height: 20px;
   letter-spacing: 0.015em;
   font-weight: 200;
-  color: #b3b3b3;
+  color: #551F55;
   text-transform: none;
   overflow: hidden;
   text-overflow: ellipsis;
