@@ -1041,10 +1041,10 @@ body {
   line-height: 20px;
   letter-spacing: 0.015em;
   font-weight: 200;
-  color: #551f55;
+  color: #551f55 !important;
   text-transform: none;
-  color: #551f55;
-  background-color: #876ba2;
+  color: #551f55 !important;
+  background-color: #876ba2 !important;
   position: relative;
   width: 100vw;
   min-height: 100vh;
@@ -19920,8 +19920,8 @@ th {
 .tracklist-station,
 .tracklist-queue,
 .tracklist-search {
-  border-bottom: 1px solid #282828;
-  color: #a0a0a0;
+  border-bottom: 1px solid #876ba2 !important;
+  color: #7c3f7c;
   table-layout: fixed;
   width: 100%;
 }
@@ -19930,7 +19930,7 @@ th {
 .tl-cell {
   padding: 0 0 0 12px;
   position: relative;
-  border-top: 1px solid #282828;
+  border-top: 1px solid #7c3f7c !important;
 }
 
 .tl-header th {
