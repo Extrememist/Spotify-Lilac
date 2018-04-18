@@ -6735,19 +6735,19 @@ html:not(
 .scrollbar-style-visible-mac ::-webkit-scrollbar-track,
 .scrollbar-style-visible-windows ::-webkit-scrollbar-track,
 .scrollbar-style-visible-linux ::-webkit-scrollbar-track {
-  background-color: #181818;
+  background-color: #551F55;
 }
 
 .scrollbar-style-visible-mac ::-webkit-scrollbar,
 .scrollbar-style-visible-windows ::-webkit-scrollbar,
 .scrollbar-style-visible-linux ::-webkit-scrollbar {
-  width: 16px;
+  width: 8px;
 }
 
 .scrollbar-style-visible-mac ::-webkit-scrollbar:horizontal,
 .scrollbar-style-visible-windows ::-webkit-scrollbar:horizontal,
 .scrollbar-style-visible-linux ::-webkit-scrollbar:horizontal {
-  height: 16px;
+  height: 8px;
 }
 
 .scrollbar-style-visible-mac ::-webkit-scrollbar-thumb,
@@ -6755,7 +6755,7 @@ html:not(
 .scrollbar-style-visible-linux ::-webkit-scrollbar-thumb {
   min-height: 32px;
   min-width: 32px;
-  background-color: #535353;
+  background-color: #551F55;
 }
 
 .scrollbar-style-visible-mac ::-webkit-scrollbar-thumb:hover,
@@ -6767,12 +6767,12 @@ html:not(
 .scrollbar-style-visible-mac ::-webkit-scrollbar-corner,
 .scrollbar-style-visible-windows ::-webkit-scrollbar-corner,
 .scrollbar-style-visible-linux ::-webkit-scrollbar-corner {
-  background-color: #121212;
+  background-color: #551F55;
 }
 
 .scrollbar-style-visible-mac ::-webkit-scrollbar-thumb {
   border: 4px solid transparent;
-  border-radius: 16px;
+  border-radius: 8px;
   background-clip: padding-box;
 }
 
@@ -6786,8 +6786,7 @@ html:not(
 
 .scrollbar-style-visible-windows ::-webkit-scrollbar-button,
 .scrollbar-style-visible-linux ::-webkit-scrollbar-button {
-  background-color: #181818;
-  background-image: url("https://d2j0f09xqmv212.cloudfront.net/images/scrollbar-buttons.png");
+  background-color: #551F55;
   background-size: 16px 64px;
 }
 
@@ -6800,7 +6799,7 @@ html:not(
 .scrollbar-style-visible-windows ::-webkit-scrollbar-button:vertical:end:increment,
 .scrollbar-style-visible-linux ::-webkit-scrollbar-button:vertical:start:decrement,
 .scrollbar-style-visible-linux ::-webkit-scrollbar-button:vertical:end:increment {
-  display: block;
+  display: none;
   height: 16px;
 }
 
