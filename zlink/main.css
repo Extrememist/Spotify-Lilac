@@ -5746,7 +5746,7 @@
 
 	.view-player .remote-playback-bar {
 	    display: none;
-	    background-color: #C8A2C8;
+	    background-color: #7C3F7C;
 	    position: relative;
 	    left: 0;
 	    height: 24px;
@@ -7681,7 +7681,7 @@
 	    padding-right: 32px;
 	    border-radius: 16px;
 	    background: transparent;
-	    color: #b3b3b3;
+	    color: #551F55;
 	    transition: none 33ms cubic-bezier(.3, 0, .7, 1);
 	    transition-property: transform, box-shadow, color, background-color;
 	    width: 32px;
