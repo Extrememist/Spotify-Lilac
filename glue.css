@@ -7834,7 +7834,7 @@ pre code {
   padding-right: 32px;
   border-radius: 16px;
   background: transparent;
-  color: #b3b3b3;
+  color: #551F55;
   transition: none 33ms cubic-bezier(0.3, 0, 0.7, 1);
   transition-property: transform, box-shadow, color, background-color;
   width: 32px;
