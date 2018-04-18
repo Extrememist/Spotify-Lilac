@@ -12640,7 +12640,7 @@ hr {
   margin: 0 0 16px;
   padding: 26px 0 4px;
   position: relative;
-  color: #551f55;
+  color: #551f55 !important;
 }
 
 .section-divider::after {
@@ -12654,7 +12654,7 @@ hr {
   line-height: 24px;
   letter-spacing: -0.005em;
   font-weight: 600;
-  color: #551f55;
+  color: #551f55 !important;
   text-transform: none;
   margin: 0;
 }
@@ -12675,18 +12675,18 @@ hr {
 }
 
 .section-divider .section-auxiliary a {
-  color: #551f55;
+  color: #551f55 !important;
   font-size: 11px;
   line-height: 16px;
   letter-spacing: 0.015em;
   font-weight: 200;
-  color: #551f55;
+  color: #551f55 !important;
   text-transform: uppercase;
   letter-spacing: 0.16em;
 }
 
 .section-divider .section-auxiliary a:hover {
-  color: #ffffff;
+  color: #876ba2 !important;
 }
 
 .section-divider-small {
@@ -12700,7 +12700,7 @@ hr {
   line-height: 20px;
   letter-spacing: 0.015em;
   font-weight: 400;
-  color: #ffffff;
+  color: #876ba2 !important;
   text-transform: none;
   margin: 0;
 }
