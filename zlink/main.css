@@ -5746,7 +5746,7 @@
 
 	.view-player .remote-playback-bar {
 	    display: none;
-	    background-color: #1db954;
+	    background-color: #C8A2C8;
 	    position: relative;
 	    left: 0;
 	    height: 24px;
@@ -5759,7 +5759,7 @@
 	    line-height: 16px;
 	    letter-spacing: .015em;
 	    line-height: inherit;
-	    color: #C8A2C8;
+	    color: #fff;
 	    margin-bottom: 0;
 	    float: right;
 	    min-width: 258px;
