@@ -1021,7 +1021,7 @@ textarea {
 html {
   font-size: 62.5%;
   -webkit-tap-highlight-color: transparent;
-  color: #b3b3b3;
+  color: #551f55;
   overflow-x: hidden;
   overflow-y: overlay;
   font-family: "spotify-circular", "Helvetica Neue", Helvetica, Arial, "Hiragino Kaku Gothic Pro", "Meiryo", "MS Gothic", sans-serif;
@@ -1041,9 +1041,9 @@ body {
   line-height: 20px;
   letter-spacing: 0.015em;
   font-weight: 200;
-  color: #b3b3b3;
+  color: #551f55;
   text-transform: none;
-  color: #b3b3b3;
+  color: #551f55;
   background-color: #876ba2;
   position: relative;
   width: 100vw;
