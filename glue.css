@@ -17054,11 +17054,11 @@ a.list-group-item.active > .badge,
 }
 
 .card-horizontal > .card-horizontal-interior-wrapper:hover, .card-horizontal > .card-horizontal-interior-wrapper:active {
-  background-color: #282828;
+  background-color: #876ba2;
 }
 
 .card-horizontal.pressed > .card-horizontal-interior-wrapper, .card-horizontal.contextmenu-active > .card-horizontal-interior-wrapper {
-  background-color: #282828;
+  background-color: #876ba2;
 }
 
 .card-horizontal .card-image-wrapper {
