@@ -4530,7 +4530,7 @@
 	    content: " ";
 	    display: block;
 	    position: absolute;
-	    border-right: 4px solid #1ed760;
+	    border-right: 4px solid #7c3f7c !important;
 	    left: 0;
 	    top: 7px;
 	    bottom: 7px;
@@ -6227,7 +6227,7 @@
 	}
 
 	.view-player .player-controls-container .progress-container .progress-bar .inner {
-	    background-color: #b3b3b3
+	    background-color: #551f55 !important;
 	}
 
 	.view-player .player-controls-container .progress-container.progress-bar-enabled.dragging-progress-bar .handle,
@@ -6237,7 +6237,7 @@
 
 	.view-player .player-controls-container .progress-container.progress-bar-enabled.dragging-progress-bar .progress-bar .inner,
 	.view-player .player-controls-container .progress-container.progress-bar-enabled:hover .progress-bar .inner {
-	    background-color: #1db954
+	    background-color: #876ba2 !important;
 	}
 
 	.view-player .player-controls-container .controls {
