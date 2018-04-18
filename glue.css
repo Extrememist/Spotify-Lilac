@@ -6735,7 +6735,7 @@ html:not(
 .scrollbar-style-visible-mac ::-webkit-scrollbar-track,
 .scrollbar-style-visible-windows ::-webkit-scrollbar-track,
 .scrollbar-style-visible-linux ::-webkit-scrollbar-track {
-  background-color: #551F55;
+  background-color: #7C3F7C;
 }
 
 .scrollbar-style-visible-mac ::-webkit-scrollbar,
@@ -6755,7 +6755,7 @@ html:not(
 .scrollbar-style-visible-linux ::-webkit-scrollbar-thumb {
   min-height: 32px;
   min-width: 32px;
-  background-color: #551F55;
+  background-color: #7C3F7C;
 }
 
 .scrollbar-style-visible-mac ::-webkit-scrollbar-thumb:hover,
@@ -6767,7 +6767,7 @@ html:not(
 .scrollbar-style-visible-mac ::-webkit-scrollbar-corner,
 .scrollbar-style-visible-windows ::-webkit-scrollbar-corner,
 .scrollbar-style-visible-linux ::-webkit-scrollbar-corner {
-  background-color: #551F55;
+  background-color: #7C3F7C;
 }
 
 .scrollbar-style-visible-mac ::-webkit-scrollbar-thumb {
@@ -6786,7 +6786,7 @@ html:not(
 
 .scrollbar-style-visible-windows ::-webkit-scrollbar-button,
 .scrollbar-style-visible-linux ::-webkit-scrollbar-button {
-  background-color: #551F55;
+  background-color: #7C3F7C;
   background-size: 16px 64px;
 }
 
