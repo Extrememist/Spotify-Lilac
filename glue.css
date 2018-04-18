@@ -18284,8 +18284,8 @@ a.list-group-item.active > .badge,
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: #876ba2;
-  background-image: linear-gradient(to bottom, transparent, #551F55);
+  background-color: #551F55;
+  background-image: linear-gradient(to bottom, transparent, #876ba2);
 }
 
 /**
