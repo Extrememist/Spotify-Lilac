@@ -6212,7 +6212,7 @@
 
 	.view-player .player-controls-container .progress-container .elapsed,
 	.view-player .player-controls-container .progress-container .remaining {
-	    color: #b3b3b3;
+	    color: #551F55;
 	    font-size: 11px;
 	    line-height: 11px;
 	    width: 35px
@@ -6227,7 +6227,7 @@
 	}
 
 	.view-player .player-controls-container .progress-container .progress-bar .inner {
-	    background-color: #551F55
+	    background-color: #b3b3b3
 	}
 
 	.view-player .player-controls-container .progress-container.progress-bar-enabled.dragging-progress-bar .handle,
