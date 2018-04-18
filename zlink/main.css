@@ -8367,12 +8367,12 @@
 	}
 
 	.view-player .text-container .text-item-container .text-item .scroll-text-container:before {
-	    background: linear-gradient(270deg, transparent, #282828);
+	    background: linear-gradient(270deg, transparent, #551F55);
 	    left: 0
 	}
 
 	.view-player .text-container .text-item-container .text-item .scroll-text-container:after {
-	    background: linear-gradient(90deg, transparent, #282828);
+	    background: linear-gradient(90deg, transparent, #551F55);
 	    right: 0
 	}
 
@@ -8459,13 +8459,13 @@
 	.view-player .nowplaying-ban-button.added.just-changed,
 	.view-player .nowplaying-heart-button.added,
 	.view-player .nowplaying-heart-button.added.just-changed {
-	    color: #551F55
+	    color: #1ed760
 	}
 
 	.view-player .nowplaying-add-button.added.just-changed:active,
 	.view-player .nowplaying-ban-button.added.just-changed:active,
 	.view-player .nowplaying-heart-button.added.just-changed:active {
-	    color: #551F55
+	    color: #18ac4d
 	}
 
 	.view-player .nowplaying-heart-button {
