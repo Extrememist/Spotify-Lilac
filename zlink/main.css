@@ -8367,12 +8367,12 @@
 	}
 
 	.view-player .text-container .text-item-container .text-item .scroll-text-container:before {
-	    background: linear-gradient(270deg, transparent, #551F55);
+	    background: linear-gradient(270deg, transparent, #a26ba2);
 	    left: 0
 	}
 
 	.view-player .text-container .text-item-container .text-item .scroll-text-container:after {
-	    background: linear-gradient(90deg, transparent, #551F55);
+	    background: linear-gradient(90deg, transparent, #a26ba2);
 	    right: 0
 	}
 
