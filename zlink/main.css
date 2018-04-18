@@ -5164,7 +5164,7 @@
 	    justify-content: space-between;
 	    align-items: center;
 	    border: 0;
-	    border-top: 1px solid #282828;
+	    border-top: 1px solid #876ba2 !important;
 	    padding: 0 24px;
 	    height: 64px;
 	    background-color: transparent;
@@ -5174,13 +5174,13 @@
 	    line-height: 20px;
 	    letter-spacing: .015em;
 	    font-weight: 200;
-	    color: #b3b3b3;
+	    color: #7c3f7c !important;
 	    text-transform: none
 	}
 
 	.NewPlaylistButton:focus,
 	.NewPlaylistButton:hover {
-	    color: #fff
+	    color: #7c3f7c
 	}
 
 	.NewPlaylistButton:active {
@@ -5188,9 +5188,9 @@
 	}
 
 	.NewPlaylistButton.drop-target-active {
-	    background: #282828;
-	    border-top-color: #282828;
-	    color: #fff
+	    background: #7c3f7c !important;
+	    border-top-color: #876ba2 !important;
+	    color: #7c3f7c !important
 	}
 
 	.NewPlaylistButton__icon {
