@@ -13527,7 +13527,7 @@ a.list-group-item.active .list-group-item-text {
 }
 
 .navbar.sticky-top {
-  background: #121212;
+  background: #A26BA2;
   border-bottom: 1px solid #282828;
   z-index: 1020;
 }
@@ -18092,7 +18092,7 @@ a.list-group-item.active > .badge,
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: #121212;
+  background-color: #A26BA2;
   display: none;
 }
 
@@ -18359,7 +18359,7 @@ a.list-group-item.active > .badge,
   right: 0;
   bottom: 0;
   left: 0;
-  background: #121212;
+  background: #A26BA2;
   opacity: 0;
   will-change: opacity;
   contain: paint layout;
@@ -18379,7 +18379,7 @@ a.list-group-item.active > .badge,
   right: 0;
   bottom: -100px;
   left: 0;
-  background-image: radial-gradient(circle farthest-corner, transparent, #121212 50%);
+  background-image: radial-gradient(circle farthest-corner, transparent, #A26BA2 50%);
   opacity: 0;
   will-change: opacity;
   contain: paint layout;
@@ -18397,7 +18397,7 @@ a.list-group-item.active > .badge,
   right: 0;
   bottom: 0;
   left: 0;
-  background: #121212;
+  background: #A26BA2;
   opacity: 0;
   will-change: opacity;
   contain: paint layout;
@@ -18796,7 +18796,7 @@ html:lang(th) .glue-page-header__sticky .glue-page-header__title {
  * Public modifier class for a header with an active sticky header.
  */
 .glue-page-header--with-active-sticky-header .glue-page-header__background-scroll-overlay-ellipse {
-  background: #121212;
+  background: #A26BA2;
 }
 
 .glue-page-header--with-active-sticky-header .glue-page-header__content,
@@ -21637,7 +21637,7 @@ which are set by UI frameworks or added by app developers.
 }
 
 .interaction-debug.interaction-debug-wireframes .navbar.sticky-top {
-  background-color: #121212 !important;
+  background-color: #A26BA2 !important;
 }
 
 .interaction-debug.interaction-debug-wireframes .scroll-container-enabled .tl-row {
